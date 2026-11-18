@@ -1,7 +1,8 @@
-<!-- banner -->
-<!-- Cuando Bez entregue el encabezado, descomentar:
-<p align="center"><img src="assets/banner.png" width="100%" alt="Jefté Montenegro" /></p>
--->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png 1x, assets/banner-dark@2x.png 2x">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner.png 1x, assets/banner@2x.png 2x">
+  <img src="assets/banner.png" width="100%" alt="Jefté Montenegro · Imagine Some Noise, Open Minds">
+</picture>
 
 # Jefté Montenegro
 
