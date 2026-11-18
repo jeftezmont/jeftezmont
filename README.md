@@ -1,12 +1,12 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png 1x, assets/banner-dark@2x.png 2x">
   <source media="(prefers-color-scheme: light)" srcset="assets/banner.png 1x, assets/banner@2x.png 2x">
-  <img src="assets/banner.png" width="100%" alt="Jefté Montenegro · Imagine Some Noise, Open Minds">
+  <img src="assets/banner.png" width="100%" alt="Jefté Montenegro · Imagine Some Noise, Off Mute">
 </picture>
 
 # Jefté Montenegro
 
-**Imagine Some Noise, Open Minds**
+**Imagine Some Noise, Off Mute**
 
 Fundador de [Grupo ISNOM](https://isnom.org). Diseño y construyo software, sistemas y medios independientes desde la Ciudad de México.
 
